@@ -36,4 +36,4 @@ Here's a list of some of the tech I've used:
 ![Mac OS Badge](https://img.shields.io/badge/mac%20os-000000?style=flat&logo=apple&logoColor=white)
 
 ## Contact Me
-I'm not very interested in keeping up with social media, but I keep an eye out on my email [![Email Badge](https://img.shields.io/badge/williamcwtam@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williamcwtam@gmail.com)
+I'm not very interested in keeping up with social media, but I keep an eye out on my email [![Email Badge](https://img.shields.io/badge/williamcwtam@gmail.com-D14836?style=centered&logo=gmail&logoColor=white)](mailto:williamcwtam@gmail.com)
