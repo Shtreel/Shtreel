@@ -13,7 +13,7 @@ I had my first taste of programming after I joined an Introduction to Computer S
 - Always try something before deciding whether you like it or not
 
 ## Tech Knowledge
-I love working with tech, whether it be hardware, software or both. I find pleasure in discovering something new about tech. I find it very satisfying when developing software or making hardware that accomplishes a real world problem. I receive a lot of pleasure by making something from scatch and giving it to someone important to me to see their happiness.
+I love working with tech, whether it be hardware, software or both. I find pleasure in discovering something new about tech. I find it very satisfying when developing software or making hardware that solves a real world problem. I receive a lot of pleasure by making something from scatch and giving it to someone important to me to see their reactions.
 
 Here's a list of some of the tech I've used:
 
