@@ -15,7 +15,8 @@ I had my first taste of programming after I joined an Introduction to Computer S
 ## Tech Knowledge
 I love working with tech, whether it be hardware, software or both. I find pleasure in discovering something new about tech. I find it very satisfying when developing software or making hardware that accomplishes a real world problem. I receive a lot of pleasure by making something from scatch and giving it to someone important to me to see their happiness.
 
-Here's a list of some of the tech I've used
+Here's a list of some of the tech I've used:
+
 ![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 ![Rails Badge](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white)
 ![JS Badge](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
